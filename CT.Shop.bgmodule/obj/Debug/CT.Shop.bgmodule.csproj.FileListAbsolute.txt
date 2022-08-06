@@ -1,0 +1,67 @@
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe.config
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csprojResolveAssemblyReference.cache
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Form1.resources
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Properties.Resources.resources
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.GenerateResource.Cache
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.pdb
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.exe
+c:\users\cattus\documents\visual studio 2012\Projects\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.pdb
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe.config
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.pdb
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csprojAssemblyReference.cache
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Form1.resources
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Properties.Resources.resources
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.GenerateResource.cache
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CoreCompileInputs.cache
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.exe
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.pdb
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CopyComplete
+C:\Users\Cattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\WebDriver.dll
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe.config
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.pdb
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\WebDriver.dll
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csprojAssemblyReference.cache
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Form1.resources
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Properties.Resources.resources
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.GenerateResource.cache
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CoreCompileInputs.cache
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CopyComplete
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.exe
+C:\Users\Xcattus\source\repos\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.pdb
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe.config
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.pdb
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.dll
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\WebDriver.dll
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.xml
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csprojAssemblyReference.cache
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Form1.resources
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Properties.Resources.resources
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.GenerateResource.cache
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CoreCompileInputs.cache
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CopyComplete
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.exe
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.pdb
+E:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.tickets.resources
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe.config
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.exe
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\CT.Shop.bgmodule.pdb
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.dll
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\WebDriver.dll
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\bin\Debug\Newtonsoft.Json.xml
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csprojAssemblyReference.cache
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Form1.resources
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.Properties.Resources.resources
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.tickets.resources
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.GenerateResource.cache
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CoreCompileInputs.cache
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.csproj.CopyComplete
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.exe
+F:\CT.Shop.bgmodule\CT.Shop.bgmodule\obj\Debug\CT.Shop.bgmodule.pdb
